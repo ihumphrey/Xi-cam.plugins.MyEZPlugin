@@ -1,0 +1,3 @@
+[Core]
+Name = MyEZPlugin
+Module = /Users/ian/repos/Xi-cam.plugins.MyEZPlugin/MyEZPlugin.py
