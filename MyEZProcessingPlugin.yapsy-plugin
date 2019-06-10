@@ -1,0 +1,3 @@
+[Core]
+Name = MyEZProcessingPlugin
+Module = /Users/ian/forks/Xi-cam.plugins.MyEZPlugin/MyEZProcessingPlugin.py
